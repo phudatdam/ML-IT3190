@@ -1,0 +1,142 @@
+[
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client001_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client002_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client003_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client005_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client006_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client007_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client008_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client009_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client011_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client012_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client013_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client014_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client021_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client022_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client023_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client024_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client026_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client028_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client029_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client030_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client032_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client033_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client034_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client035_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client036_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client037_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client039_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client042_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client048_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client049_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client050_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client051_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client053_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client054_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client055_android_SD_scene01.jpg",
+        "photo_label": 1
+    }
+]

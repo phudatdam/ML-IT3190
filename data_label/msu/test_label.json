@@ -1,0 +1,322 @@
+[
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client001_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client001_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client001_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client013_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client013_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client013_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client014_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client014_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client014_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client023_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client023_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client023_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client024_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client024_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client024_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client026_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client026_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client026_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client028_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client028_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client028_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client029_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client029_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client029_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client030_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client030_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client030_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client032_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client032_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client032_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client033_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client033_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client033_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client035_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client035_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client035_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client036_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client036_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client036_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client037_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client037_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client037_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client039_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client039_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client039_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client042_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client042_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client042_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client048_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client048_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client048_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client049_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client049_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client049_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client050_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client050_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client050_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client051_android_SD_ipad_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client051_android_SD_iphone_video_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/attack/attack_client051_android_SD_printed_photo_scene01.jpg",
+        "photo_label": 0
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client001_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client013_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client014_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client023_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client024_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client026_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client028_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client029_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client030_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client032_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client033_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client035_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client036_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client037_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client039_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client042_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client048_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client049_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client050_android_SD_scene01.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/real/real_client051_android_SD_scene01.jpg",
+        "photo_label": 1
+    }
+]

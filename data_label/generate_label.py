@@ -2,18 +2,20 @@ import os
 import json
 import sys
 import glob
-
+from sklearn.model_selection import train_test_split
+import random
 # change your data path
-data_dir = '/data/share/jiayunpei/mtcnn_dataset_preprocess/'
+data_dir = '/home/adminn/theanh28/SSDG-CVPR2020/data/origin/'
+
 
 def msu_process():
     test_list = []
     # data_label for msu
-    for line in open('/data/share/jiayunpei/original_data/MSU-MFSD/test_sub_list.txt', 'r'):
-        test_list.append(line[0:2])
+    for line in open('/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/test_sub_list.txt', 'r'):
+        test_list.append(line[0:9])
     train_list = []
-    for line in open('/data/share/jiayunpei/original_data/MSU-MFSD/train_sub_list.txt', 'r'):
-        train_list.append(line[0:2])
+    for line in open('/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/train_sub_list.txt', 'r'):
+        train_list.append(line[0:9])
     print(test_list)
     print(train_list)
     train_final_json = []
@@ -29,9 +31,16 @@ def msu_process():
     f_all = open(label_save_dir + 'all_label.json', 'w')
     f_real = open(label_save_dir + 'real_label.json', 'w')
     f_fake = open(label_save_dir + 'fake_label.json', 'w')
-    dataset_path = data_dir + 'msu_256/'
-    path_list = glob.glob(dataset_path + '**/*.png', recursive=True)
+    
+    dataset_path = '/home/adminn/theanh28/SSDG-CVPR2020/data/origin/MSU-MFSD/pics/'
+    
+    print(f'\nDataset path: {dataset_path}')
+    # Quét tất cả file .png đệ quy và sắp xếp
+    path_list = glob.glob(dataset_path + '**/*.jpg', recursive=True)
     path_list.sort()
+    
+    print(f'Number of MSU images: {len(path_list)}')
+    
     for i in range(len(path_list)):
         flag = path_list[i].find('/real/')
         if(flag != -1):
@@ -41,7 +50,7 @@ def msu_process():
         dict = {}
         dict['photo_path'] = path_list[i]
         dict['photo_label'] = label
-        video_num = path_list[i].split('/')[-2].split('_')[0]
+        video_num = path_list[i].split('/')[-1].split('_')[1]
         if (video_num in train_list):
             train_final_json.append(dict)
         else:
@@ -83,20 +92,21 @@ def casia_process():
     f_all = open(label_save_dir + 'all_label.json', 'w')
     f_real = open(label_save_dir + 'real_label.json', 'w')
     f_fake = open(label_save_dir + 'fake_label.json', 'w')
-    dataset_path = data_dir + 'casia_256/'
-    path_list = glob.glob(dataset_path + '**/*.png', recursive=True)
+    dataset_path = data_dir + 'CASIA-FASD/'
+    path_list = glob.glob(dataset_path + '**/*.jpg', recursive=True)
     path_list.sort()
     for i in range(len(path_list)):
-        flag = path_list[i].split('/')[-2]
-        if (flag == '1' or flag == '2' or flag == 'HR_1'):
+        flag = path_list[i].split('/')[-1].split('_')[3]
+        #breakpoint()
+        if (flag == 'real.jpg'):
             label = 1
         else:
             label = 0
         dict = {}
         dict['photo_path'] = path_list[i]
         dict['photo_label'] = label
-        flag = path_list[i].find('/train_release/')
-        if (flag != -1):
+        flag = path_list[i].split('/')[-3].split('_')[0]
+        if (flag == 'train'):
             train_final_json.append(dict)
         else:
             test_final_json.append(dict)
@@ -200,25 +210,25 @@ def oulu_process():
     f_all = open(label_save_dir + 'all_label.json', 'w')
     f_real = open(label_save_dir + 'real_label.json', 'w')
     f_fake = open(label_save_dir + 'fake_label.json', 'w')
-    dataset_path = data_dir + 'oulu_256/'
+    dataset_path = data_dir + 'OULU-NPU/'
     path_list = glob.glob(dataset_path + '**/*.png', recursive=True)
     path_list.sort()
     for i in range(len(path_list)):
-        flag = int(path_list[i].split('/')[-2].split('_')[-1])
-        if (flag == 1):
+        flag = path_list[i].split('/')[-2]
+        if (flag == 'real'):
             label = 1
         else:
             label = 0
         dict = {}
         dict['photo_path'] = path_list[i]
         dict['photo_label'] = label
-        if (path_list[i].find('/Train_files/') != -1):
+        if (path_list[i].split('/')[-3]=='Session1' or path_list[i].split('/')[-3]=='Session2'):
             train_final_json.append(dict)
-        elif(path_list[i].find('/Dev_files/') != -1):
+        elif(path_list[i].split('/')[-3]=='Session3'):
             valid_final_json.append(dict)
         else:
             test_final_json.append(dict)
-        if(path_list[i].find('/Dev_files/') != -1):
+        if(path_list[i].split('/')[-3]=='Session3'):
             continue
         else:
             all_final_json.append(dict)
@@ -226,6 +236,14 @@ def oulu_process():
                 real_final_json.append(dict)
             else:
                 fake_final_json.append(dict)
+    val_size = 0.7 
+
+        # Sử dụng train_test_split
+    valid_final_json, test_final_json = train_test_split(
+            valid_final_json,           # Danh sách dữ liệu đầu vào
+            test_size=val_size,  # Tỷ lệ dữ liệu dành cho tập Test (hoặc Val)
+            random_state=42      # Seed ngẫu nhiên (để đảm bảo kết quả chia nhất quán)
+        )
     print('\nOulu: ', len(path_list))
     print('Oulu(train): ', len(train_final_json))
     print('Oulu(valid): ', len(valid_final_json))
@@ -248,7 +266,7 @@ def oulu_process():
 
 
 if __name__=="__main__":
-    msu_process()
-    casia_process()
-    replay_process()
+    #msu_process()
+    #casia_process()
+    #replay_process()
     oulu_process()
