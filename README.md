@@ -45,7 +45,7 @@ Run like this:
 python dg_test.py
 ```
 
-# các việc cần làm bây giờ 
+# các việc cần làm bây giờ (đã hoàn thành)
 
 ## Lý do:
 Ta chỉ có 3/4 bộ datasets nên ta cần modify lại các hàm ở bước training và testing sao cho thích ứng với 3 bộ dataset đó
